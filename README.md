@@ -1,5 +1,7 @@
 # 🚀 Welcome to Paresh Sahare's DevOps Universe! 🌌
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pareshsahare.pareshsahare)
+
 Hi there! I'm **Paresh Sahare**, a passionate **DevOps Engineer** focused on building scalable, automated, and secure cloud infrastructures. With expertise in AWS, GCP, Azure, CI/CD, and containerization, I'm on a mission to solve complex problems with simple, innovative solutions.
 
 ---
@@ -75,4 +77,4 @@ Hi there! I'm **Paresh Sahare**, a passionate **DevOps Engineer** focused on bui
 
 ✨ _“Automate everything, innovate everywhere, and simplify the complex.”_ – Paresh Sahare
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=pareshsahare.pareshsahare)
+
