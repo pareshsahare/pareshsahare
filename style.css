@@ -1,4 +1,4 @@
-/* Basic resets and global styles */
+/* Reset and Global Styles */
 * {
     margin: 0;
     padding: 0;
@@ -7,143 +7,111 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
-    background-color: #f4f4f4;
+    background-color: #f0f0f0;
     color: #333;
-    line-height: 1.6;
 }
 
 .container {
-    width: 80%;
+    width: 90%;
     margin: 0 auto;
+    max-width: 1200px;
 }
 
-/* Header Section */
-header {
-    background-color: #333;
+/* Hero Section */
+#hero {
+    background: url('https://via.placeholder.com/1920x1080') no-repeat center center/cover;
+    height: 100vh;
     color: white;
-    padding: 80px 0;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
-.hero-text h1 {
-    font-size: 3.5em;
+#hero h1 {
+    font-size: 4rem;
     margin-bottom: 10px;
 }
 
-.hero-text p {
-    font-size: 1.3em;
+#hero h2 {
+    font-size: 2rem;
     margin-bottom: 20px;
 }
 
+#hero p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+}
+
 .cta-btn {
-    display: inline-block;
     background-color: #007bff;
     color: white;
-    padding: 12px 30px;
-    font-size: 1.2em;
+    padding: 12px 25px;
     text-decoration: none;
     border-radius: 5px;
+    font-size: 1.1rem;
 }
 
 .cta-btn:hover {
     background-color: #0056b3;
 }
 
-/* About Section */
-#about {
-    padding: 60px 0;
-    text-align: center;
-}
-
-#about h2 {
-    font-size: 2.5em;
-    margin-bottom: 20px;
-}
-
-/* Skills Section */
-#skills {
-    padding: 60px 0;
-    background-color: #f0f0f0;
-}
-
-#skills h2 {
-    font-size: 2.5em;
-    margin-bottom: 40px;
-    text-align: center;
-}
-
-.skills-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-    gap: 20px;
-}
-
-.skill-card {
-    background-color: white;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    text-align: center;
-}
-
-.skill-card h3 {
-    font-size: 1.6em;
-    margin-bottom: 10px;
-}
-
-.skill-card p {
-    font-size: 1.2em;
-}
-
 /* Projects Section */
 #projects {
     padding: 60px 0;
+    background-color: #fff;
+    text-align: center;
 }
 
 #projects h2 {
-    font-size: 2.5em;
+    font-size: 2.5rem;
     margin-bottom: 20px;
-    text-align: center;
 }
 
-#projects ul {
-    list-style: none;
-    text-align: center;
-}
-
-#projects ul li {
-    font-size: 1.2em;
+.projects-list a {
+    font-size: 1.2rem;
+    color: #007bff;
+    text-decoration: none;
+    display: block;
     margin: 10px 0;
 }
 
-#projects ul li a {
-    color: #007bff;
-    text-decoration: none;
+.projects-list a:hover {
+    text-decoration: underline;
 }
 
-#projects ul li a:hover {
-    text-decoration: underline;
+/* GitHub Stats Section */
+#github-stats {
+    padding: 60px 0;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+#github-stats h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
 }
 
 /* Contact Section */
 #contact {
     padding: 60px 0;
-    background-color: #f0f0f0;
+    background-color: #fff;
+    text-align: center;
 }
 
 #contact h2 {
-    font-size: 2.5em;
+    font-size: 2.5rem;
     margin-bottom: 20px;
-    text-align: center;
 }
 
 #contact ul {
     list-style: none;
-    text-align: center;
+    padding: 0;
+    font-size: 1.2rem;
 }
 
 #contact ul li {
-    font-size: 1.2em;
     margin: 10px 0;
 }
 
@@ -161,10 +129,10 @@ footer {
     background-color: #333;
     color: white;
     text-align: center;
-    padding: 20px 0;
+    padding: 20px;
 }
 
 footer p {
-    font-size: 1em;
+    font-size: 1rem;
 }
 
