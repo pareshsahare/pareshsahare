@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
-    background-color: #fff;
+    background-color: #f4f4f4;
     color: #333;
     line-height: 1.6;
 }
@@ -20,31 +20,33 @@ body {
 
 /* Hero Section */
 #hero {
-    background-color: #f8f8f8;
+    background-color: #1E2A47;
+    color: white;
     padding: 100px 0;
     text-align: center;
+    border-bottom: 4px solid #F8D800;
 }
 
 #hero h1 {
     font-size: 3.5rem;
-    color: #333;
+    color: #F8D800;
     margin-bottom: 10px;
 }
 
 #hero h2 {
     font-size: 2rem;
-    color: #555;
+    color: #F8D800;
     margin-bottom: 20px;
 }
 
 #hero p {
     font-size: 1.2rem;
-    color: #777;
+    color: #ccc;
     margin-bottom: 30px;
 }
 
 .cta-btn {
-    background-color: #007bff;
+    background-color: #F8D800;
     color: white;
     padding: 12px 25px;
     text-decoration: none;
@@ -53,13 +55,13 @@ body {
 }
 
 .cta-btn:hover {
-    background-color: #0056b3;
+    background-color: #FFB700;
 }
 
 /* About Section */
 #about {
     padding: 60px 0;
-    background-color: #f4f4f4;
+    background-color: white;
     text-align: center;
 }
 
@@ -71,12 +73,14 @@ body {
 /* Projects Section */
 #projects {
     padding: 60px 0;
+    background-color: #e9ecef;
     text-align: center;
 }
 
 #projects h2 {
     font-size: 2.5rem;
     margin-bottom: 20px;
+    color: #333;
 }
 
 .project-list {
@@ -93,11 +97,12 @@ body {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     width: 45%;
     text-align: left;
+    border: 2px solid #F8D800;
 }
 
 .project-item h3 {
     font-size: 1.5rem;
-    color: #333;
+    color: #1E2A47;
     margin-bottom: 10px;
 }
 
@@ -111,11 +116,13 @@ body {
     padding: 60px 0;
     background-color: #fff;
     text-align: center;
+    border-top: 4px solid #F8D800;
 }
 
 #certifications h2 {
     font-size: 2.5rem;
     margin-bottom: 20px;
+    color: #333;
 }
 
 #certifications ul {
@@ -131,13 +138,14 @@ body {
 /* Skills Section */
 #skills {
     padding: 60px 0;
-    background-color: #f4f4f4;
+    background-color: #e9ecef;
     text-align: center;
 }
 
 #skills h2 {
     font-size: 2.5rem;
     margin-bottom: 20px;
+    color: #333;
 }
 
 #skills ul {
@@ -153,6 +161,7 @@ body {
 /* Contact Section */
 #contact {
     padding: 60px 0;
+    background-color: white;
     text-align: center;
 }
 
@@ -167,7 +176,7 @@ body {
 }
 
 #contact a {
-    color: #007bff;
+    color: #F8D800;
     text-decoration: none;
 }
 
@@ -177,7 +186,7 @@ body {
 
 /* Footer Section */
 footer {
-    background-color: #333;
+    background-color: #1E2A47;
     color: white;
     text-align: center;
     padding: 20px;
