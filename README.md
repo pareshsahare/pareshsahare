@@ -29,7 +29,7 @@ Hi there! I'm **Paresh Sahare**, a passionate **DevOps Engineer** focused on bui
   Created a high-performing proxy adapter using Docker, GKE, and GitHub Actions. Deployed Nosql-bench for performance testing.  
 
 - **Sandbox Automation**:  
-  Built a tool to manage unused resources across AWS, GCP, and Azure, reducing costs and enforcing security baselines.
+  **Collaborated with the team** to design and implement a tool for managing unused resources across AWS, GCP, and Azure.
 
 ---
 
