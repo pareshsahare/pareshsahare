@@ -12,7 +12,6 @@ body {
     line-height: 1.6;
 }
 
-/* Containers */
 .container {
     width: 90%;
     margin: 0 auto;
@@ -23,31 +22,27 @@ body {
 #hero {
     background-color: #3498db;
     color: white;
-    padding: 100px 0;
+    padding: 80px 0;
     text-align: center;
-    border-bottom: 4px solid #2ecc71;
 }
 
 #hero h1 {
     font-size: 3.5rem;
-    color: #F8D800;
     margin-bottom: 10px;
 }
 
 #hero h2 {
     font-size: 2rem;
-    color: #F8D800;
     margin-bottom: 20px;
 }
 
 #hero p {
     font-size: 1.2rem;
-    color: #ccc;
     margin-bottom: 30px;
 }
 
 .cta-btn {
-    background-color: #F8D800;
+    background-color: #f8d800;
     color: white;
     padding: 12px 25px;
     text-decoration: none;
@@ -56,35 +51,17 @@ body {
 }
 
 .cta-btn:hover {
-    background-color: #FFB700;
+    background-color: #ffb700;
 }
 
-/* Table Styles */
-table {
-    width: 100%;
-    margin-top: 30px;
-    border-collapse: collapse;
-}
-
-th, td {
-    padding: 15px;
-    text-align: left;
-    border-bottom: 2px solid #ddd;
-}
-
-th {
-    background-color: #2ecc71;
-    color: white;
-}
-
-tr:nth-child(even) {
-    background-color: #f2f2f2;
+/* Sections */
+section {
+    padding: 60px 0;
 }
 
 /* About Section */
 #about {
-    padding: 60px 0;
-    background-color: #f4f4f4;
+    background-color: #f9f9f9;
     text-align: center;
 }
 
@@ -95,58 +72,82 @@ tr:nth-child(even) {
 
 /* Projects Section */
 #projects {
-    padding: 60px 0;
-    background-color: #e9ecef;
-    text-align: center;
+    background-color: #f2f2f2;
+    text-align: left;
 }
 
 #projects h2 {
     font-size: 2.5rem;
     margin-bottom: 20px;
-    color: #333;
 }
 
-/* Certifications Section */
-#certifications {
-    padding: 60px 0;
-    background-color: #f9fafb;
-    text-align: center;
+#projects ul {
+    list-style: none;
 }
 
-#certifications h2 {
-    font-size: 2.5rem;
-    margin-bottom: 20px;
-    color: #333;
+#projects li {
+    font-size: 1.1rem;
+    margin-bottom: 15px;
 }
 
 /* Skills Section */
 #skills {
-    padding: 60px 0;
-    background-color: #e9ecef;
-    text-align: center;
+    background-color: #fff;
+    text-align: left;
 }
 
 #skills h2 {
     font-size: 2.5rem;
     margin-bottom: 20px;
-    color: #333;
+}
+
+#skills ul {
+    list-style: none;
+}
+
+#skills li {
+    font-size: 1.1rem;
+    margin-bottom: 15px;
+}
+
+/* Certifications Section */
+#certifications {
+    background-color: #f2f2f2;
+    text-align: left;
+}
+
+#certifications h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+#certifications ul {
+    list-style: none;
+}
+
+#certifications li {
+    font-size: 1.1rem;
+    margin-bottom: 15px;
 }
 
 /* Contact Section */
 #contact {
-    padding: 60px 0;
     background-color: #fff;
-    text-align: center;
+    text-align: left;
+}
+
+#contact h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
 }
 
 #contact ul {
     list-style: none;
-    padding: 0;
-    font-size: 1.2rem;
 }
 
-#contact ul li {
-    margin: 10px 0;
+#contact li {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
 }
 
 #contact a {
@@ -163,5 +164,10 @@ footer {
     background-color: #2c3e50;
     color: white;
     text-align: center;
-    padding: 20
+    padding: 20px;
+}
+
+footer p {
+    font-size: 1rem;
+}
 
