@@ -45,10 +45,7 @@ Hi there! I'm **Paresh Sahare**, a passionate **DevOps Engineer** focused on bui
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pareshsahare&show_icons=true&theme=github_dark" alt="Paresh's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pareshsahare&layout=compact&theme=github_dark" alt="Paresh's Top Languages" height="180px" />
-</div>
+- 🏆 [GitHub Achievements](https://github.com/pareshsahare?tab=achievements): Explore my contributions, badges, and milestones.
 
 ---
 
