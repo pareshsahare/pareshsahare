@@ -20,7 +20,9 @@ Hi there! I'm **Paresh Sahare**, a passionate **DevOps Engineer** focused on bui
 ### 🌍 **Migration Masterpieces**
 - **AWS to GCP Migration** (Largest Grocery Platform in India):  
   Automated the migration of 25+ services to GCP, designed Helm charts, and built robust CI/CD pipelines using Jenkins and GitHub Actions.  
-
+- **GKE Cluster Migration** (India’s Leading Social Media Platform):
+  Migrated Kubernetes clusters within GCP using a lift-and-shift approach. Developed Terraform modules for GKE, service accounts, and GCR, and built CI/CD 
+  pipelines using GitHub Actions, Jenkins, and Spinnaker.
 - **AliCloud to GCP Migration** (Indonesia's Largest E-commerce):  
   Engineered a seamless lift-and-shift migration, including automation for MySQL and Redis replication setups.  
 
