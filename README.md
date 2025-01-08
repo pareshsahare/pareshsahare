@@ -45,7 +45,9 @@ Hi there! I'm **Paresh Sahare**, a passionate **DevOps Engineer** focused on bui
 
 ## 📊 GitHub Stats
 
-- 🏆 [GitHub Achievements](https://github.com/pareshsahare?tab=achievements): Explore my contributions, badges, and milestones.
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pareshsahare&margin-w=15" alt="Paresh's GitHub Trophy" />
+</div>
 
 ---
 
