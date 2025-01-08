@@ -74,3 +74,5 @@ Hi there! I'm **Paresh Sahare**, a passionate **DevOps Engineer** focused on bui
 ---
 
 ✨ _“Automate everything, innovate everywhere, and simplify the complex.”_ – Paresh Sahare
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pareshsahare.pareshsahare)
